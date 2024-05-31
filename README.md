@@ -1,4 +1,4 @@
-# ruby-networking-scripts
+# Ruby Networking Scripts
   
 An assortment of command line scripts written for the Ruby interpreter.  
   
