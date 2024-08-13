@@ -1,6 +1,6 @@
 # Ruby Networking Scripts
   
-**Description:** An assortment of command line scripts written for the Ruby interpreter.  
+**Description:** An assortment of command line scripts written for the [Ruby](https://www.ruby-lang.org/en/) interpreter.  
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
