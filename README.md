@@ -1,7 +1,9 @@
 # Ruby Networking Scripts
   
 **Description:** An assortment of command line scripts written for the [Ruby](https://www.ruby-lang.org/en/) interpreter.  
-  
+
+*Note: If looking for an online Ruby compiler and interpreter with multi-class support, consider [OneCompiler](https://onecompiler.com/ruby).*  
+
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
 | [**ftpclient.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/ftpclient.rb) | Establishes a client connection to an FTP server.  
