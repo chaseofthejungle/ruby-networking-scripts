@@ -5,7 +5,7 @@
 *Note: If looking for an online Ruby compiler and interpreter with multi-class support, consider [OneCompiler](https://onecompiler.com/ruby).*  
 
 | Script | Purpose |  
-| :----------: | :----------: |  
+| :----------: | ---------- |  
 | [**ftpclient.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/ftpclient.rb) | Establishes a client connection to an FTP server.  
 | [**httpclient.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/httpclient.rb) | Retrieves API data from a server to a client device.  
 | [**infoworksobjs.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/infoworksobjs.rb) | Creates data objects (for Infoworks data models).  
