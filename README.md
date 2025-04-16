@@ -1,7 +1,16 @@
 # Ruby Networking Scripts
   
-*Note: If looking for an online [Ruby](https://www.ruby-lang.org/en/) compiler and interpreter with multi-class support, consider [OneCompiler](https://onecompiler.com/ruby).*  
-<br /><br />
+*Note: If looking for an online Ruby compiler and interpreter with multi-class support, consider [OneCompiler](https://onecompiler.com/ruby).*  
+  
+#### Table of Contents
+  
+1. [Ruby Scripts](#scripts)
+2. [Supplemental Resource](#supplemental)
+  
+<hr />
+  
+## 1. <a name="scripts">Ruby Scripts</a>
+  
 | Script | Purpose |  
 | ---------- | ---------- |  
 | [**ftpclient.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/ftpclient.rb) | Establishes a client connection to an FTP server.  
@@ -10,3 +19,9 @@
 | [**networkvalidator.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/networkvalidator.rb) | Returns and outputs validation warnings and errors for the current network.  
 | [**retrievewebpage.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/retrievewebpage.rb) | Retrieves data from a web page.  
 | [**tcpservermulti.rb**](https://github.com/chaseofthejungle/ruby-networking-scripts/blob/main/scripts/tcpservermulti.rb) | Creates a TCP Server that can handle multiple client connections.
+
+<hr />
+  
+## 2. <a name="supplemental">Supplemental Resource</a>
+  
+* [Official Ruby Programming Language Website](https://www.ruby-lang.org/en/)
