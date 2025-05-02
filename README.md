@@ -5,7 +5,7 @@
 #### Table of Contents
   
 1. [Ruby Scripts](#scripts)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -22,6 +22,7 @@
 
 <hr />
   
-## 2. <a name="supplemental">Supplemental Resource</a>
+## 2. <a name="supplemental">Supplemental Resources</a>
   
-* [Official Ruby Programming Language Website](https://www.ruby-lang.org/en/)
+* *[Official Ruby Programming Language Website](https://www.ruby-lang.org/en/)*  
+* *[OneCompiler](https://onecompiler.com/ruby)*
